@@ -18,7 +18,7 @@ public class IndexController {
 
     @Path("/")
     public void index() {
-        result.include("", "VRaptor 3");
+        result.include("", "VRaptor 3.5");
     }
 
 }
